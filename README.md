@@ -31,3 +31,22 @@ The project consists of three layers:
 Student project
 
 Student Management System using Multi-Layer Architecture
+# Student Management System
+
+## Description
+A student management system based on
+Multi-Layer Architecture.
+
+## Architecture
+- Presentation Layer
+- Service Layer
+- Repository Layer
+
+## Technologies
+- Python
+- GitHub
+
+## Features
+- Add student
+- View students
+- Validate student information
